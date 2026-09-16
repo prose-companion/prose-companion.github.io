@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Episode 1: Access Your Case Files - The Pro Se Companion</title>
+    <title>Episode 1: What Your Ticket Is Actually Supposed to Cost - The Pro Se Companion</title>
     <link rel="stylesheet" href="../styles.css">
 </head>
 <body>
@@ -13,7 +13,7 @@
             <p class="subtitle">Episode 1</p>
         </div>
         <nav class="main-nav">
-            <a href="../index.html" class="nav-link">Court Directory & Links</a>
+            <a href="../index.html" class="nav-link">Court Directory &amp; Links</a>
             <a href="index.html" class="nav-link active">Episodes</a>
             <a href="../legal-definitions.html" class="nav-link">Word of the Day</a>
         </nav>
@@ -22,36 +22,28 @@
     <main>
         <div class="episode-intro">
             <p class="episode-num">Episode 1</p>
-            <h2>How to Access Your Case Files Online</h2>
-            <p>If you are a party to a case, you have the right to view the documents filed in your case. Every state court system has an online portal where you can look up your case, view filings, check hearing dates, and see what motions have been submitted. The name of the system varies by state &mdash; Maryland calls it "Party Access," other states call it Case Search, eCourts, Odyssey, or something else entirely.</p>
-            <p>Click your state below to see exactly how to access your case files, what the system is called, and step-by-step instructions.</p>
-        </div>
-
-        <section class="map-section" id="map-section">
-            <!-- Mobile state selector (hidden on desktop) -->
-            <div class="mobile-state-select">
-                <label for="state-dropdown">Select your state or territory:</label>
-                <select id="state-dropdown">
-                    <option value="">-- Choose --</option>
-                </select>
+            <h2>What Your Ticket Is Actually Supposed to Cost</h2>
+            <p>Every state publishes what a traffic violation costs before you ever see the inside of a courtroom. Maryland calls it the Schedule of Preset Motor Vehicle Fines, form DC-CR-090. Other states call it a bail schedule, a payables list, or a waiver schedule. A few do not publish one at all, because they let every court set its own.</p>
+            <p>Find your state below. Then look up the exact statute number printed on your citation &mdash; not the words, the number. If the charge on your paper does not match the penalty on the schedule, that is worth knowing before you agree to anything.</p>
+            <p>This is the list I wish somebody had handed us on day one.</p>
+                        <tr><td><strong>District of Columbia</strong></td><td>Civil Fines for Moving Infractions &mdash; D.C. Municipal Regulations, Title 18, Chapter 26.</td></tr>
+                        <tr><td><strong>Puerto Rico</strong></td><td>Administrative Fines &mdash; Law 22 of 2000, as amended. Departamento de Transportacion y Obras Publicas.</td></tr>
+                        <tr><td><strong>Guam</strong></td><td>Traffic Fine Schedule &mdash; Guam Code Annotated Title 16, and the Traffic Violations Bureau.</td></tr>
+                        <tr><td><strong>U.S. Virgin Islands</strong></td><td>Schedule of Fines for Traffic Violations &mdash; V.I. Code Title 20.</td></tr>
+                        <tr><td><strong>American Samoa</strong></td><td>Traffic Offense Penalties &mdash; American Samoa Code Annotated Title 22.</td></tr>
+                        <tr><td><strong>Northern Mariana Islands</strong></td><td>Schedule of Fines &mdash; Commonwealth Code Title 9.</td></tr>
+                    </tbody>
+                </table>
             </div>
-            <div class="map-container" id="map-container">
-                <!-- SVG map will be loaded here -->
-            </div>
-            <p class="map-instruction">Click on your state to see how to access your case files</p>
         </section>
 
-        <section class="state-panel" id="state-panel">
-            <button class="back-btn" id="back-btn">&larr; Back to Map</button>
-            <div class="state-header" id="state-header">
-                <h2 id="state-name"></h2>
-            </div>
-            <div id="state-content">
-                <!-- State-specific content will be populated by JS -->
-            </div>
-            <div class="disclaimer">
-                <p><strong>Disclaimer:</strong> This site provides links to official government resources for informational purposes only. 
-                Court systems update their websites periodically. If a link does not work, search your state court system's main website for "case search" or "party access." This is not legal advice.</p>
+        <!-- Why Some States Have No Schedule -->
+        <section class="directory-section" id="no-schedule">
+            <h2 class="section-title">Why Some States Say "No Statewide Schedule"</h2>
+            <div class="disclaimer-full">
+                <p>Arizona, Indiana, Kentucky, Michigan, Ohio, Oklahoma and Texas do not publish one document for the whole state. Each court sets its own. That is not me failing to find it. That is the answer, and it is worth knowing, because it means the number you are quoted can change from one courthouse to the next inside the same state.</p>
+                <p>If your state is on that list, go to your state's court website, find your specific court, and look for a fine schedule, waiver schedule, bond schedule, or deposit schedule.</p>
+                <p>Direct links are being added and verified one at a time. Nothing goes on this page until I have opened it myself.</p>
             </div>
         </section>
     </main>
@@ -60,9 +52,5 @@
         <p>The Pro Se Companion &copy; 2025 | A free public resource.</p>
         <p>All links direct to official government websites. No legal advice is provided.</p>
     </footer>
-
-    <script src="episode-01-data.js"></script>
-    <script src="../us-map.js"></script>
-    <script src="episode-app.js"></script>
 </body>
 </html>
