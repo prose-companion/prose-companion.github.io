@@ -1,0 +1,102 @@
+WORD OF THE DAY: CONSIDERATION
+The Pro Se Companion — Episode 3
+
+In Black's Law Dictionary, the entry for "consideration" runs about four pages. Here is a plain-language breakdown of everything in it. These are summaries in our own words, not quotes from the dictionary.
+
+------------------------------------------------------------
+WHERE THE WORD COMES FROM
+------------------------------------------------------------
+"Consideration" comes from Latin. It originally meant to observe the stars. Over time it came to mean looking at something closely, thinking it over, and finally, in law, the thing that makes a promise worth enforcing.
+
+Legal writers point out that for centuries the word had no special legal meaning at all. In old English statutes, "the considerations" were simply the reasons that moved Parliament or the King to act. It took until roughly the 1800s for lawyers to build a real legal theory around the word.
+
+------------------------------------------------------------
+THE FOUR MAIN MEANINGS
+------------------------------------------------------------
+1. CONTRACTS: Something one side gives, does, gives up, or promises in exchange for the other side's promise. It's what usually makes a deal legally enforceable. (Some states let a substitute, like reasonable reliance on a promise, stand in for it.)
+
+2. PARLIAMENTARY LAW: The process a group (like a board, council or legislature) uses to handle a motion, from the moment the chair states it until the vote. It includes debate, and can include amendments or sending it to a committee.
+
+3. EVERYDAY MEANING: Something you take into account when forming an opinion.
+
+4. HISTORICAL: In old English law, a court's judgment. Old court records opened their rulings with Latin words meaning "it is considered by the court."
+
+------------------------------------------------------------
+TYPES OF CONSIDERATION (THE CONTRACT MEANING)
+------------------------------------------------------------
+ADEQUATE CONSIDERATION: Fair and reasonable for the deal.
+
+INADEQUATE CONSIDERATION: Not fair or reasonable for the deal.
+
+GROSSLY INADEQUATE CONSIDERATION: So far below fair value that the deal may not count as a real sale at all. Depending on the facts, it may really be a gift, or even a fraud.
+
+SUFFICIENT CONSIDERATION (also called legally sufficient consideration): Enough to support a contract under the law. Note: modern contract law mostly asks whether something was bargained for, not whether the price was fair.
+
+VALUABLE CONSIDERATION (also called legal consideration, or good and valuable consideration): Gives one side a benefit, or puts a burden on the other, that can be measured in money.
+
+GOOD CONSIDERATION (also called meritorious or moral consideration): Based on love, affection, family ties, or moral duty. Usually NOT enough to enforce a contract. A parent's promise to give a child a gift, for example, generally can't be enforced just because of love.
+
+GRATUITOUS CONSIDERATION: Costs the giver nothing, or is something they were already required to do. Won't support a contract.
+
+NOMINAL CONSIDERATION: So small it has no real relation to the value exchanged, like one dollar for a house.
+
+OTHER CONSIDERATION (also "other good and valuable consideration"): Extra things of value that aren't listed in the document, either because there are too many to list or to keep the full price private.
+
+CONCURRENT CONSIDERATION: Both sides' promises or performances happen at the same time.
+
+CONTINUING CONSIDERATION: A performance that goes on over a period of time.
+
+EXECUTED CONSIDERATION: Already fully given.
+
+EXECUTORY CONSIDERATION: To be given after the contract is made.
+
+EXPRESS CONSIDERATION: Specifically written in the document.
+
+IMPLIED CONSIDERATION: Not written down, but the law infers it from how the parties acted.
+
+FAIR CONSIDERATION: Roughly equal in value to what's received, given in good faith. It can also mean consideration that's honest and reasonable even if not strictly equal.
+
+FUTURE CONSIDERATION: To be given later, or not yet worked out between the parties.
+
+PAST CONSIDERATION: Something done before the promise was made. Usually it doesn't count, because it wasn't given in exchange for the promise. Exceptions exist, such as a new promise to pay a debt that's too old to sue on, or one wiped out in bankruptcy.
+
+ILLEGAL CONSIDERATION: Against the law or public policy. Won't support a contract.
+
+IMMORAL CONSIDERATION: So offensive to society's standards that it's invalid. A contract built on it usually can't be enforced.
+
+ILLUSORY CONSIDERATION: A promise to do something the person was already required to do, like a public duty or an existing contract. It isn't real consideration because nothing new is promised. (Related idea: an "illusory promise," which sounds like a promise but lets the person back out whenever they want.)
+
+IMPOSSIBLE CONSIDERATION: A promise or performance that can't actually be done.
+
+INVENTED CONSIDERATION: Consideration a court treats as existing so a contract doesn't fail.
+
+SHAM CONSIDERATION: Looks valuable on paper but was never actually delivered. Sometimes used to make a gift look like a sale.
+
+------------------------------------------------------------
+TYPES OF CONSIDERATION (THE PARLIAMENTARY MEANING)
+------------------------------------------------------------
+CONSIDERATION SERIATIM (also called consideration by paragraph, or serial consideration): A group works through a long motion one part at a time, discussing and amending each part, then votes on the whole thing at the end.
+
+INFORMAL CONSIDERATION: Debate with no limit on how many times a member can speak on the same question.
+
+------------------------------------------------------------
+THE EVERYDAY MEANING
+------------------------------------------------------------
+IRRELEVANT CONSIDERATION: A fact or statement that has nothing to do with the question being decided, or no effect on how it comes out.
+
+------------------------------------------------------------
+RELATED TERMS YOU'LL SEE
+------------------------------------------------------------
+FAILURE OF CONSIDERATION: The consideration was promised, but it was never delivered, or it turned out to be worthless.
+
+WANT OF CONSIDERATION (also called lack of consideration): There was never any consideration to begin with, so there was no enforceable contract.
+
+------------------------------------------------------------
+LOOK IT UP YOURSELF, FOR FREE
+------------------------------------------------------------
+Cornell Law School's Legal Information Institute (Wex) has a free definition of consideration:
+https://www.law.cornell.edu/wex/consideration
+
+Every state is different. Check out prose-companion.github.io to access links to the official directory for yours.
+
+Not legal advice. This is a plain-language summary for education only.
