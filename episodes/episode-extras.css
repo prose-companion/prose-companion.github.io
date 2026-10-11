@@ -1,0 +1,141 @@
+/* Extra styles for the episode pages: video, chapters, questions and transcript.
+   Uses the colors already defined in ../styles.css */
+
+.ep-watch {
+    max-width: 900px;
+    margin: 0 auto 2.5rem;
+    padding: 0 1rem;
+}
+.ep-video {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: 2px solid var(--accent);
+    border-radius: 10px;
+    overflow: hidden;
+    background: #000;
+}
+.ep-video iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+.ep-yt-links {
+    text-align: center;
+    margin-top: 0.9rem;
+    font-size: 1.05rem;
+}
+.ep-yt-links a {
+    color: var(--accent);
+    font-weight: bold;
+    text-decoration: none;
+}
+.ep-yt-links a:hover {
+    color: var(--accent-hover);
+    text-decoration: underline;
+}
+
+.ep-section {
+    max-width: 900px;
+    margin: 0 auto 2.5rem;
+    padding: 0 1rem;
+}
+.ep-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5rem 1.75rem;
+}
+.ep-card p {
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+}
+.ep-card p:last-child {
+    margin-bottom: 0;
+}
+.ep-card h3 {
+    color: var(--accent);
+    font-size: 1.15rem;
+    margin: 1.25rem 0 0.5rem;
+}
+
+.ep-chapters {
+    list-style: none;
+    columns: 2;
+    column-gap: 2rem;
+    padding: 0;
+}
+.ep-chapters li {
+    break-inside: avoid;
+    padding: 0.2rem 0;
+    color: var(--text-secondary);
+}
+.ep-chapters a,
+.ep-ts {
+    display: inline-block;
+    min-width: 3.2rem;
+    color: var(--link);
+    font-variant-numeric: tabular-nums;
+}
+.ep-chapters a:hover {
+    color: var(--link-hover);
+}
+
+.ep-qa {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--border);
+}
+.ep-qa:first-child {
+    padding-top: 0;
+}
+.ep-qa h3 {
+    margin-top: 0;
+}
+.ep-qa p {
+    margin-bottom: 0;
+}
+.ep-note {
+    color: var(--text-secondary) !important;
+    font-size: 0.95rem;
+    font-style: italic;
+    margin-top: 1rem;
+}
+
+.ep-transcript summary {
+    cursor: pointer;
+    color: var(--accent);
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding: 0.25rem 0;
+}
+.ep-transcript summary:hover {
+    color: var(--accent-hover);
+}
+.ep-transcript[open] summary {
+    margin-bottom: 1rem;
+}
+.ep-transcript p {
+    color: var(--text-secondary);
+    line-height: 1.75;
+}
+
+@media (max-width: 700px) {
+    .ep-card {
+        padding: 1.1rem 1.1rem;
+    }
+    .ep-chapters {
+        columns: 1;
+    }
+}
+
+.episode-intro a {
+    color: var(--link);
+}
+.episode-intro a:hover {
+    color: var(--link-hover);
+}
+footer a {
+    color: var(--link);
+}
